@@ -7,7 +7,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { faBell, faQuestionCircle, faUserCircle } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
-  selector: 'yellow-global-header',
+  selector: 'newRepo-global-header',
   templateUrl: './global-header.component.html',
   styleUrls: ['./global-header.component.scss'],
 })
