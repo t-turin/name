@@ -2,7 +2,7 @@ import { Component, OnInit, NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @Component({
-  selector: 'name-global-footer',
+  selector: '&lt;%= projectName %&gt;-global-footer',
   templateUrl: './global-footer.component.html',
   styleUrls: ['./global-footer.component.scss']
 })
