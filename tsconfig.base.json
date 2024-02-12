@@ -20,6 +20,9 @@
     "paths": {
       "@name/common/styles": [
         "libs/common/styles/src/index.ts"
+      ],
+      "@name/common/ui": [
+        "libs/common/ui/src/index.ts"
       ]
     }
   },
